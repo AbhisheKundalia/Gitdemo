@@ -1,0 +1,2 @@
+Earth's Moon, this is adding new file to the cloned repo
+This is adding new file to local... flow is 1. we make a repo online 2.we clone the repo down in local 3. we make changes and add the file to be at staging area 4. we commit our local repo finalizing the changes. 5. then we push the local repo named as Master to Origin i.e. online repo
